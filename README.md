@@ -10,6 +10,7 @@
 
 ## Progress tracker
 
+Last Updated: 02MAR2026 @ 0031 EST
 - [X] Create working systemd service
 - [x] Working local server on end
 - [X] Add tut to readme
