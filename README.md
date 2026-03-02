@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/druidsareus/entralinked-proxmox-server/blob/master/logo.png" alt="icon"/>
+  <img src="https://github.com/druidsareus/entralinked-proxmox-server/blob/main/logo.png" alt="icon"/>
 </p>
 <h1 align="center">Entralinked ProxMox Server</h1>
 <p align="center">
