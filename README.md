@@ -16,7 +16,7 @@ Last Updated: 02MAR2026 @ 0037 EST
 - [X] Add tut to readme
 - [ ] Upload sanitized vm image
 - [ ] Link server with home assitant
-- [ ] Start the process of turning this into a docker image
+- [ ] Start the process of turning this work into a docker image
 - [ ] Add additional ideas of how users could integrate
 
 # Initial setup:
