@@ -10,13 +10,14 @@
 
 ## Progress tracker
 
-Last Updated: 02MAR2026 @ 0031 EST
+Last Updated: 02MAR2026 @ 0035 EST
 - [X] Create working systemd service
 - [x] Working local server on end
 - [X] Add tut to readme
 - [ ] Upload sanitized vm image
 - [ ] Link server with home assitant
-- [ ] Add addition ideas of how users could integrate
+- [ ] Start the process of turning this into a docker image
+- [ ] Add additional ideas of how users could integrate
 
 # Initial setup:
 
