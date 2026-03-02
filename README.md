@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Entralinked ProxMox Server</h1>
 <p align="center">
-  <a href="https://www.proxmox.com/en/"><img src="https://github.com/druidsareus/entralinked-proxmox-server/blob/master/proxmox-logo-stacked-inverted-color.png" alt="Link"/></a> </p>
+  <a href="https://www.proxmox.com/en/"><img src="https://github.com/druidsareus/entralinked-proxmox-server/blob/main/proxmox-logo-stacked-inverted-color.png" alt="Link"/></a> </p>
 
 
 ## Creating server via ProxMox - Setup and Instructions
