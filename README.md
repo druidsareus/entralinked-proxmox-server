@@ -8,6 +8,15 @@
 
 ## Creating server via ProxMox - Setup and Instructions
 
+## Progress tracker
+
+- [X] Create working systemd service
+- [x] Working local server on end
+- [X] Add tut to readme
+- [ ] Upload sanitized vm image
+- [ ] Link server with home assitant
+- [ ] Add addition ideas of how users could integrate
+
 # Initial setup:
 
 1) Download latest release of entralinked
